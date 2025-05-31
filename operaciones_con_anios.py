@@ -32,3 +32,4 @@ print("Edades en 2025:", edades)
 print("Producto cartesiano (año, edad):")
 for par in producto_cartesiano:
     print(par)
+ 
